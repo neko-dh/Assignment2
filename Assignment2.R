@@ -1,5 +1,7 @@
 
 #Assignment2
+#Neha Kodali
+
 #1) Prompt the user to enter a three digit positive number
 inputnumber <- readline(prompt = "Enter a three digit positive number")
 inputnumeric <- as.numeric(inputnumber) #as.numeric converts a number into a numeric but converts character into na.
